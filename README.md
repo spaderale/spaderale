@@ -1,21 +1,23 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000000&fontColor=6F42C1&fontSize=70&text=spaderale&animation=twinkling&fontAlignY=55" />
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&width=435&lines=Exploring+the+vast+universe+of+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&width=435&lines=Exploring+the+vast+universe+of+code" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
+### Projects
 
-
-| | Project | Focus | Skills |
-|--|---------|-------|--------|
-| 🐚 | **[minishell](https://github.com/spaderale/minishell)** | Systems Architecture | `fork` `pipes` `redirections` `UNIX signals` |
-| 📊 | **[push_swap](https://github.com/spaderale/push_swap)** | Algorithms & Data Structures | `Big O` `stacks` `instruction optimization` |
-| 🎮 | **[so_long](https://github.com/spaderale/so_long)** | Graphics Development | `MinilibX` `textures` `window management` |
-| 🗣️ | **[minitalk](https://github.com/spaderale/minitalk)** | Inter-Process Communication | `SIGUSR` `bit transmission` `IPC` |
-| 🛠️ | **[lib_ft.42](https://github.com/spaderale/lib_ft.42)** | Software Fundamentals | `libc` `memory management` `pointers` |
+| Project | Focus | Description | Skills |
+|---------|-------|-------------|--------|
+| **[minishell](https://github.com/spaderale/minishell)** | Systems Architecture | A functional shell in C, recreating the core logic of Bash. | `fork` `pipes` `redirections` `UNIX signals` |
+| **[push_swap](https://github.com/spaderale/push_swap)** | Algorithms & Data Structures | Sorting algorithm using two stacks with minimal instructions. | `Big O` `stacks` `instruction optimization` |
+| **[so_long](https://github.com/spaderale/so_long)** | Graphics Development | A small 2D game built from scratch with a custom rendering loop. | `MinilibX` `textures` `window management` |
+| **[minitalk](https://github.com/spaderale/minitalk)** | Inter-Process Communication | Client/server communication using only UNIX signals at bit level. | `SIGUSR` `bit transmission` `IPC` |
+| **[lib_ft.42](https://github.com/spaderale/lib_ft.42)** | Software Fundamentals | Custom C standard library built from scratch to master memory. | `libc` `memory management` `pointers` |
+| **[42_Piscine](https://github.com/spaderale/42_Piscine)** | Shell & C Foundations | All exercises solved during the 42 selection process (C and Shell). | `Shell` `C basics` `problem solving` |
+| **[alexandrebs.com](https://github.com/spaderale/alexandrebs.com)** | Portfolio | Personal portfolio website built with HTML and CSS. | `HTML` `CSS` `web design` |
 
 ---
 
