@@ -15,7 +15,7 @@
 | **[push_swap](https://github.com/spaderale/push_swap)** | Algorithms & Data Structures | Sorting algorithm using two stacks with minimal instructions. | `Big O` `stacks` `instruction optimization` |
 | **[so_long](https://github.com/spaderale/so_long)** | Graphics Development | A small 2D game built from scratch with a custom rendering loop. | `MinilibX` `textures` `window management` |
 | **[minitalk](https://github.com/spaderale/minitalk)** | Inter-Process Communication | Client/server communication using only UNIX signals at bit level. | `SIGUSR` `bit transmission` `IPC` |
-| **[lib_ft.42](https://github.com/spaderale/lib_ft.42)** | Software Fundamentals | Custom C standard library built from scratch to master memory. | `libc` `memory management` `pointers` |
+| **[lib_ft](https://github.com/spaderale/lib_ft.42)** | Software Fundamentals | Custom C standard library built from scratch to master memory. | `libc` `memory management` `pointers` |
 | **[42_Piscine](https://github.com/spaderale/42_Piscine)** | Shell & C Foundations | All exercises solved during the 42 selection process (C and Shell). | `Shell` `C basics` `problem solving` |
 | **[alexandrebs.com](https://github.com/spaderale/alexandrebs.com)** | Portfolio | Personal portfolio website built with HTML and CSS. | `HTML` `CSS` `web design` |
 
