@@ -11,6 +11,8 @@
 
 | Project | Focus | Description | Skills |
 |---------|-------|-------------|--------|
+| **[cub3d](https://github.com/spaderale/cub3d)** | Graphics & Raycasting | A first-person 3D raycaster game inspired by Wolfenstein 3D. | `Raycasting` `DDA algorithm` `MinilibX` `math` |
+| **[Philosophers](https://github.com/spaderale/Philosophers)** | Concurrency & Multithreading | Solving the Dining Philosophers problem avoiding deadlocks and race conditions. | `threads` `mutexes` `synchronization` `POSIX` |
 | **[minishell](https://github.com/spaderale/minishell)** | Systems Architecture | A functional shell in C, recreating the core logic of Bash. | `fork` `pipes` `redirections` `UNIX signals` |
 | **[push_swap](https://github.com/spaderale/push_swap)** | Algorithms & Data Structures | Sorting algorithm using two stacks with minimal instructions. | `Big O` `stacks` `instruction optimization` |
 | **[so_long](https://github.com/spaderale/so_long)** | Graphics Development | A small 2D game built from scratch with a custom rendering loop. | `MinilibX` `textures` `window management` |
